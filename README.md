@@ -21,7 +21,7 @@ You also will need access to Clustal Omega binaries for alignment:
 Once you have these installed on your system, you only need a reference amino acid sequence and amino acid sequence database in FASTA format.
 
 ## Using anchor
-Example data (HXB2.fasta / HIV1_SFL_2018_env_PRO.fasta) is provided for your convenience in testing the system.  anchor runs in 3 steps:
+Example data (HXB2.fasta / HIV1_SFL_2018_env_PRO.fasta) is provided for your convenience in testing the system.  You will need to create the directory `alignments/` to run the examples below.  anchor runs in 3 steps:
 
 #### General Arguments 
 `--action align/analyze/query` tells anchor what you want to do
