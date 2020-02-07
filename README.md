@@ -73,7 +73,7 @@ This will output a .csv file keyed with timestamp into anchor's working director
 The resulting csv file is a breakdown of every position (or requested positions) relative to the reference sequence by amino acid (or gap).  We use this information for tracking prevalence of certain sequences in known sequence databases.
 
 ## Example Data
-The example dataset provided here was compiled from the LANL HIV sequence database (http://www.hiv.lanl.gov/) 2018 "all" super filtered amino acid web alignment with SIV sequences removed.  The reference sequence used is HxB2 Env. (https://www.ncbi.nlm.nih.gov/nuccore/K03455)
+The example dataset provided here was compiled from the LANL HIV sequence database (http://www.hiv.lanl.gov/) 2018 Group M super filtered amino acid web alignment.  The reference sequence used is HxB2 Env. (https://www.ncbi.nlm.nih.gov/nuccore/K03455)
 
 ## Citing anchor
 If you use anchor in your research, please cite our paper (currently in preprint) here:
