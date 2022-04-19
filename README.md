@@ -76,9 +76,9 @@ The resulting csv file is a breakdown of every position (or requested positions)
 The example dataset provided here was compiled from the LANL HIV sequence database (http://www.hiv.lanl.gov/) 2018 Group M super filtered amino acid web alignment.  The reference sequence used is HxB2 Env. (https://www.ncbi.nlm.nih.gov/nuccore/K03455)
 
 ## Citing anchor
-If you use anchor in your research, please cite our paper (currently in preprint) here:
+If you use anchor in your research, please cite our paper here:
 
-- https://www.biorxiv.org/content/10.1101/2020.02.05.936096v1 (doi https://doi.org/10.1101/2020.02.05.936096)
+- https://doi.org/10.1371/journal.ppat.1008753
 
 ## Future Plans
 - Add anchor as a web functionality to ward.scripps.edu/gld
