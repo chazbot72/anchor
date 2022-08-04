@@ -135,7 +135,7 @@ def query_db(anchor_res, report_res, db_pickle):
 	else:
 		print("Report Points: ALL RES")
 	print("loading db...")
-	L1 = pickle.load(open('db.pickle', 'rb'))
+	L1 = pickle.load(open(db_pickle, 'rb'))
 
 	anchor_chain = 'init'
 	for anchor in anchor_res:
